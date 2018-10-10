@@ -1,7 +1,8 @@
 # paper-reading
-reading papers and something, then note my understanding.
-論文を読んで自分の理解をメモしていく．
-場合によってはブログに書くかも．
+read papers and something, then take a note of my understanding in Japanese.  
+
+論文を読んで自分の理解をメモしていく．  
+場合によってはブログに書くかも．  　　
 
 ## 構成
 issueに読んだ論文などのメモを随時追加して行く
